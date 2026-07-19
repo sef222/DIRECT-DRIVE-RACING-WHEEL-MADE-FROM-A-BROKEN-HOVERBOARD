@@ -24,3 +24,5 @@ After several hours of searching through AliExpress and community projects, I se
 The next step is to source the hoverboard locally and begin designing the mechanical assembly.
 
 **Total time spent: 3 hours**
+
+![Concept sketch](concept-sketch.png)
