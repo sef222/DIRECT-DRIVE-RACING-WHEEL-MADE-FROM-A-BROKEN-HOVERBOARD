@@ -1,0 +1,32 @@
+Category,Part,Quantity,Purpose
+Motor,Hoverboard Hub Motor,1,Provides the direct-drive force feedback torque by rotating the steering wheel.
+Motor Controller,MKS XDrive Mini / ODESC V4.2,1,Drives the BLDC motor using Field-Oriented Control (FOC) and receives torque commands.
+USB Controller,STM32F407VET6,1,Runs OpenFFBoard firmware and communicates with the PC over USB.
+Encoder,AS5047P Magnetic Encoder,1,Measures the exact steering wheel position.
+Encoder,2.5 mm Diametric Magnet,1,Works with the AS5047P encoder to detect shaft rotation.
+Power,36V 15A Power Supply or Hoverboard Battery,1,Supplies power to the motor controller.
+Safety,Emergency Stop Switch,1,Immediately disconnects motor power if something goes wrong.
+Wheel,Racing Steering Wheel,1,The steering wheel the user holds.
+Wheel,Quick Release,1,Allows the steering wheel to be removed quickly.
+Pedals,DIY Pedal Set,1,"Throttle, brake and optional clutch inputs."
+Pedals,Load Cell,1,Measures brake pressure for realistic braking.
+Pedals,Hall Sensors,2,Measures throttle and clutch pedal position without wear.
+Interface,Rotary Encoder,1,Navigates menus and adjusts settings.
+Interface,Push Buttons,3+,Controls game and wheel functions.
+Display,Telemetry Display,1,"Displays speed, gear, lap time, and other game telemetry."
+Frame,Aluminum / Steel Frame,1,Supports the entire wheelbase assembly.
+Mechanical,Steering Shaft,1,Transfers motor torque to the steering wheel.
+Mechanical,Pillow Block Bearings,2,Supports the steering shaft for smooth rotation.
+Mechanical,Shaft Coupler,1,Connects the motor shaft to the steering shaft.
+Mechanical,Shaft Collars,2,Keeps the shaft from moving axially.
+Mechanical,"Bolts, Nuts & Washers",Various,Assembles all mechanical components.
+Mechanical,T-Nuts (if using extrusion),Various,Secures parts to aluminum extrusion.
+Wiring,XT60/XT90 Connectors,2,High-current power connectors.
+Wiring,14 to 18 AWG Silicone Wire,As needed,Carries power and signal wiring.
+Wiring,Heat Shrink & Ferrules,As needed,Insulates and terminates wires safely.
+Cooling,40 mm Fan,1,Keeps the motor controller cool during heavy use.
+Enclosure,3D Printed Parts,Various,"Mounts the encoder, electronics, and guides cables."
+Software,OpenFFBoard,-,Converts DirectInput FFB effects into motor torque commands.
+Software,Motor Controller Firmware,-,Controls the BLDC motor and performs FOC.
+Software,STM32CubeProgrammer,-,Flashes firmware onto the STM32 board.
+Software,SimHub,-,Drives the telemetry display with game data.
