@@ -64,3 +64,6 @@ Some planned improvements include:
 - Complete build guide for anyone to replicate
 
 Contributions, suggestions, and ideas are always welcome!
+
+<img width="2526" height="1454" alt="image" src="https://github.com/user-attachments/assets/1ad88225-c27e-4501-a0a9-1fc11aaf4065" />
+
