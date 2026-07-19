@@ -26,3 +26,29 @@ The next step is to source the hoverboard locally and begin designing the mechan
 **Total time spent: 3 hours**
 
 ![Concept sketch](concept-sketch.png)
+
+# July 19: Planning the project electrical components
+
+Today I finished choosing the compnents and finishing the electrical side of the BOM.xlsx
+
+I have used locally available, low cost parts to complete my project, next is finsihing the mechanical STLs and BOM.
+
+After several hours choosing parts I setteled on these:
+- ODESC V4.2 56V
+- 6.5inch Hoverboard hub motor
+- STM32F407VET6 "Black Pill"
+- AS5047P magnetic encoder
+- Encoder Magnet
+- 100kg Load Cell
+- ADS1220 Load Cell interface
+- SS49E Hall Effect Sensor
+- Hall Effect Magnet
+- DS428 Buttons
+- EC11 Rotary Encoder
+- ST7735S 1.8inch Display
+
+The next step is to source the hoverboard locally and begin designing the mechanical assembly.
+
+**Total time spent: 1.5 hours**
+
+![Concept sketch](BOM.png)
